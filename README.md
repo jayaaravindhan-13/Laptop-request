@@ -30,7 +30,7 @@ To create an automated and efficient system that enables employees to request la
 * Asset assignment: Automatically updates CMDB/asset management records upon delivery.
 * Reporting dashboard: Tracks volume, fulfillment time, and request trends.
 
-# 5. Implementation Steps
+5. Implementation Steps
 
 1. Requirement Gathering
 
